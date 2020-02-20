@@ -47,7 +47,7 @@ class App extends Component {
     return (
       <div className="App">
          <header className="App-header">
-        <Hero backgroundImage="./images/starry-skies.jpg">
+        <Hero backgroundImage="../images/starry-skies.jpg">
         <h1 className="App-title" >Memory Game</h1>
         <h2 className="App-intro">
             Click an image to score a point. Click it twice and you loose!!
