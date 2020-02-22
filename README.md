@@ -11,7 +11,7 @@
   - If you manage to get throught the entire set of pictures without clicking twice, you win!!
 
 ## What it looks like
-![clicky]()
+![clicky](clicky-scrnshot.png)
 
 
 ## Tools Used
