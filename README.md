@@ -1,3 +1,39 @@
+
+# Clicky Memory Game
+
+
+# Clicky
+[Clicky] (https://dimz13.github.io/clicky/)
+
+## How it works
+  - You are displayed a set of pictures and everytime you click on one of them you get a point
+  - Click on the pictures only once. If you forget and click on the same picture twice you loose and start over again.
+  - If you manage to get throught the entire set of pictures without clicking twice, you win!!
+
+## What it looks like
+![clicky]()
+
+
+## Tools Used
+
+- [Visual Studio Code](#vscode)
+- [Chrome Browser](#chrome)
+- [GitLab](https://ucb.bootcampcontent.com/)
+- [GitHub](https://github.com/)
+- [W3Schools](https://www.w3schools.com/default.asp)
+- [SlackForum] (#slackforum)
+- [StackOver Flow](https://stackoverflow.com/)
+
+
+
+## Core Technologies Used
+ - BootStrap CSS Framework
+ - React
+
+## Challenges in getting this to work:
+ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
