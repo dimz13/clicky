@@ -31,7 +31,8 @@
  - React
 
 ## Challenges in getting this to work:
- 
+ - The deployment onto gh pages took some time and finally when the deployment was done the images disappeared.
+ - Had to go back and debug and eventually change the path of the images.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
