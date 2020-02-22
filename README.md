@@ -3,7 +3,7 @@
 
 
 # Clicky
-[Clicky] (https://dimz13.github.io/clicky/)
+[Clicky!] (https://dimz13.github.io/clicky/)
 
 ## How it works
   - You are displayed a set of pictures and everytime you click on one of them you get a point
