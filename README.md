@@ -1,6 +1,6 @@
 
-# Clicky Memory Game
-
+# Clicky Memory Game in action
+![Clicky](/clicky.gif)
 
 # Clicky
 [Clicky!] (https://dimz13.github.io/clicky/)
